@@ -1,4 +1,8 @@
 Lois RM
 3g3rh3h3@gmail.com
 10/11/2023 13:51
-pollas en vinagre
+<<<<<<< HEAD
+hola
+=======
+tiene que dar error
+>>>>>>> 7167604b3f8e31a3ac577e6f3514d192f9e5d498
